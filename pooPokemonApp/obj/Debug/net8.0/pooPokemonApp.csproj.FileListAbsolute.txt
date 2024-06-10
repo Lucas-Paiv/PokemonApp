@@ -1,0 +1,14 @@
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\bin\Debug\net8.0\pooPokemonApp.exe
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\bin\Debug\net8.0\pooPokemonApp.deps.json
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\bin\Debug\net8.0\pooPokemonApp.runtimeconfig.json
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\bin\Debug\net8.0\pooPokemonApp.dll
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\bin\Debug\net8.0\pooPokemonApp.pdb
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.AssemblyInfoInputs.cache
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.AssemblyInfo.cs
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.dll
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\refint\pooPokemonApp.dll
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.pdb
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\pooPokemonApp.genruntimeconfig.cache
+C:\Users\jucas\OneDrive\Desktop\Estudo C#\Projeto1\pooPokemonApp\obj\Debug\net8.0\ref\pooPokemonApp.dll
